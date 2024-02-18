@@ -7218,16 +7218,6 @@
 	},
 /turf/simulated/floor/lino,
 /area/point_verdant/interior/streetvendor)
-"vW" = (
-/obj/structure/stairs/urban/road_ramp/left{
-	dir = 8;
-	pixel_y = 29
-	},
-/obj/structure/stairs/urban/road_ramp{
-	dir = 8
-	},
-/turf/simulated/floor/asphalt,
-/area/point_verdant/interior/tunnels)
 "vX" = (
 /obj/effect/decal/exterior_stairs/half/center{
 	dir = 4
@@ -14491,9 +14481,6 @@
 /obj/structure/stairs/urban/road_ramp/left{
 	dir = 8;
 	pixel_y = 29
-	},
-/obj/structure/stairs/urban/road_ramp{
-	dir = 8
 	},
 /turf/simulated/floor/asphalt,
 /area/point_verdant/outdoors)
@@ -56879,7 +56866,7 @@ rC
 WO
 AV
 ql
-vW
+ip
 DZ
 KK
 KK
